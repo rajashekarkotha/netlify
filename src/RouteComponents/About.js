@@ -5,6 +5,7 @@ class About extends Component {
         return (
             <div>
                 About Component
+              this is info about component.
             </div>
         );
     }
