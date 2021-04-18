@@ -5,6 +5,7 @@ class About extends Component {
         return (
             <div>
                 About Component
+                phase-1 added to merge request
             </div>
         );
     }
